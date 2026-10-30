@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "A atualização aparece logo depois de publicada, sem esperar 5 minutos",
-  "pub_date": "2026-10-30T16:36:26.601Z",
+  "version": "0.2.0",
+  "notes": "Conecte até duas contas do Instagram em Ajustes\nPublique fotos e carrosséis no Feed pelo Novo post\nLink temporário para enviar as fotos ao Instagram\nModo claro, escuro ou automático",
+  "pub_date": "2026-10-30T18:25:31.629Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTG03TU8yM1dmSjhaSmwvbmswbnMvTWRNd3lJY0FsbUFPRTdseFNoelExeHcwaytDQmtQLzFjalVpYTVBdlY5dDR6Q1NqWG9Xcmt1RDBiNU5GL290RlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4MTg2CWZpbGU6Q2FkZW5jaWFfMC4xLjJfeDY0LXNldHVwLmV4ZQpHZGFBWnhNSWVOTHo3NTV0bkpvd2lVQlUrSWF3TzNXdnlPdUNaSTQ5bHo3enJhcGs2NUZ0VnFJaXhkVjNhQ3h4S0NlN0RraUlnYkFHZkxXeWE2MU9DZz09Cg==",
-      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.1.2/Cadencia_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTHAzZ1p5WjhSR0FkV0VwL01UMytVT1pQT1U5dHcwL25IVm1WTHZBNmtOMGRUQWtEUXRNcjdHNWwrM2tQWUJ1ai9uL1lIbzBoakF1d3B6a2gyTWh1VkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0NzMxCWZpbGU6Q2FkZW5jaWFfMC4yLjBfeDY0LXNldHVwLmV4ZQpCRVZTNDcxcFRqajVvZ3RSbTVjaEI0NWxaZmRRSE13U3pSN3dzZU1Qa09KRUJySW5kazBpZjk3VWNUOXZHVlVhMFFrdkRkOTYzazlhRS9ON21waU1CZz09Cg==",
+      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.2.0/Cadencia_0.2.0_x64-setup.exe"
     }
   }
 }
