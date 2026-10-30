@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Teste da atualização pelo próprio app",
-  "pub_date": "2026-10-30T16:26:29.849Z",
+  "version": "0.1.2",
+  "notes": "A atualização aparece logo depois de publicada, sem esperar 5 minutos",
+  "pub_date": "2026-10-30T16:36:26.601Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTHJzQ25rLy84ZDM5bm9lU2VBMEtwdE1QTVA1dFcycVVkWWRGYWxlNWNoeUZxNkpXSGYxWmpJeEZzcmdIaXo4RllTWUphMWNTQ24ycXdSYVUzYkc3YkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc3NTg2CWZpbGU6Q2FkZW5jaWFfMC4xLjFfeDY0LXNldHVwLmV4ZQpBeWV0blBBN0ttY3V4RzNjbkZrUldaRnJHNmtYR05JK3J6M3VNbHpKWWJ2MWpYVCtUbFE4QVA3Zk8rZDNmUUc5djdOZm5hSWt4ZHQybS85UGRCaTdEZz09Cg==",
-      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.1.1/Cadencia_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTG03TU8yM1dmSjhaSmwvbmswbnMvTWRNd3lJY0FsbUFPRTdseFNoelExeHcwaytDQmtQLzFjalVpYTVBdlY5dDR6Q1NqWG9Xcmt1RDBiNU5GL290RlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4MTg2CWZpbGU6Q2FkZW5jaWFfMC4xLjJfeDY0LXNldHVwLmV4ZQpHZGFBWnhNSWVOTHo3NTV0bkpvd2lVQlUrSWF3TzNXdnlPdUNaSTQ5bHo3enJhcGs2NUZ0VnFJaXhkVjNhQ3h4S0NlN0RraUlnYkFHZkxXeWE2MU9DZz09Cg==",
+      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.1.2/Cadencia_0.1.2_x64-setup.exe"
     }
   }
 }
