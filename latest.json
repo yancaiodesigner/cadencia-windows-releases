@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Primeira versão do Cadência para Windows\nAtualização pelo próprio app",
+  "pub_date": "2026-10-30T16:05:53.170Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTGxFcCtBUnF2MXJMemJJNzlOWkRTRFRJZXRGS2k5UlA1UHVIdFFJV3lFMUdIc3FJNmcyc01vcHh1bzlZWTV5a0ozeThiMmlkTW1tNWF4ejcrYlJCaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc2MzQ5CWZpbGU6Q2FkZW5jaWFfMC4xLjBfeDY0LXNldHVwLmV4ZQo4Y2dUd0lWeGhQZ1NZa1o1M1kzNnVES253cWczR0N4MldXOVFVQzlwSWZkNU1UQUptem1la1RXNXF5RlRGZ3R4bm1mT1NLdExTOTdvNjRnalNJNFZDdz09Cg==",
+      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.1.0/Cadencia_0.1.0_x64-setup.exe"
+    }
+  }
+}
