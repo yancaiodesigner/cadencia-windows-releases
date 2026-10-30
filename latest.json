@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Conecte até duas contas do Instagram em Ajustes\nPublique fotos e carrosséis no Feed pelo Novo post\nLink temporário para enviar as fotos ao Instagram\nModo claro, escuro ou automático",
-  "pub_date": "2026-10-30T18:25:31.629Z",
+  "version": "0.3.0",
+  "notes": "Reels e Stories, com foto ou vídeo\nVídeos no carrossel, com duração e capa\nPrimeiro comentário e Avisar nos Stories\nAgendar data e hora, com a Agenda para publicar agora ou remover\nFechar a janela deixa o Cadência no ícone ao lado do relógio, publicando nos horários\nCorreção da foto de perfil",
+  "pub_date": "2026-10-30T21:17:53.591Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTHAzZ1p5WjhSR0FkV0VwL01UMytVT1pQT1U5dHcwL25IVm1WTHZBNmtOMGRUQWtEUXRNcjdHNWwrM2tQWUJ1ai9uL1lIbzBoakF1d3B6a2gyTWh1VkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0NzMxCWZpbGU6Q2FkZW5jaWFfMC4yLjBfeDY0LXNldHVwLmV4ZQpCRVZTNDcxcFRqajVvZ3RSbTVjaEI0NWxaZmRRSE13U3pSN3dzZU1Qa09KRUJySW5kazBpZjk3VWNUOXZHVlVhMFFrdkRkOTYzazlhRS9ON21waU1CZz09Cg==",
-      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.2.0/Cadencia_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTGttRHNPcHRUS0MzQ1REcFBhOUs4WjN5RHkvam1NZjJlSE9icCs0RDJNWHNOd2xGcW1BN2lDWG56cytsd2U4eEMwUC9RdXZMSlo4dUN2SzlwWGpOMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk1MDczCWZpbGU6Q2FkZW5jaWFfMC4zLjBfeDY0LXNldHVwLmV4ZQpwR1JUb3ByY2xiQUUxZ0ROWkZjODM3aWhxM2RzZzZ4NlZNaEF6MStOWWhlOUpMdDczcmhwNnlMN1BFOXJFb21rYlZqTVlvWFhFaE56VlMxNHVDbmNEQT09Cg==",
+      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.3.0/Cadencia_0.3.0_x64-setup.exe"
     }
   }
 }
