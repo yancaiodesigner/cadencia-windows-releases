@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Reels e Stories, com foto ou vídeo\nVídeos no carrossel, com duração e capa\nPrimeiro comentário e Avisar nos Stories\nAgendar data e hora, com a Agenda para publicar agora ou remover\nFechar a janela deixa o Cadência no ícone ao lado do relógio, publicando nos horários\nCorreção da foto de perfil",
-  "pub_date": "2026-10-30T21:17:53.591Z",
+  "version": "0.3.1",
+  "notes": "Legendas com IA: o botão IA, embaixo da legenda, gera 3 opções a partir da foto, do carrossel ou do vídeo\nMelhorar a legenda com IA: corrigir erros, encurtar, deixar mais envolvente, mais vendedora ou mais profissional, adicionar emojis ou reescrever\nNão precisa de chave nem de conta: dá para esconder o botão em Ajustes",
+  "pub_date": "2026-11-09T14:21:31.968Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTGttRHNPcHRUS0MzQ1REcFBhOUs4WjN5RHkvam1NZjJlSE9icCs0RDJNWHNOd2xGcW1BN2lDWG56cytsd2U4eEMwUC9RdXZMSlo4dUN2SzlwWGpOMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk1MDczCWZpbGU6Q2FkZW5jaWFfMC4zLjBfeDY0LXNldHVwLmV4ZQpwR1JUb3ByY2xiQUUxZ0ROWkZjODM3aWhxM2RzZzZ4NlZNaEF6MStOWWhlOUpMdDczcmhwNnlMN1BFOXJFb21rYlZqTVlvWFhFaE56VlMxNHVDbmNEQT09Cg==",
-      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.3.0/Cadencia_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYWhSSHJUKzhaTHRNWitGMXpqOXF5QUZVZ3hYSy9LZHFsUm5hczFqSW0wSThFTjhrQVdlZFdBeUNZZU1KM3E0REFyR1V3dzhrbmtFa3cwczN5cE83NEJmK2F0Wjl5UFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM0MDkxCWZpbGU6Q2FkZW5jaWFfMC4zLjFfeDY0LXNldHVwLmV4ZQpRNCtxdWh0ZmdJbVpISmJ4TlNlaUxKK1JURTF1UFVYUTU5ZXlwTE5rVWY4c3VDN3I5VG9telpIVmx0aThPN0dBcG4yeWVoSkdaNkdTbE1tcDNxUWFBdz09Cg==",
+      "url": "https://github.com/yancaiodesigner/cadencia-windows-releases/releases/download/v0.3.1/Cadencia_0.3.1_x64-setup.exe"
     }
   }
 }
